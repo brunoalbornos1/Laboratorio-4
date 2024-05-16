@@ -11,7 +11,7 @@
         <h1>Laboratorio 4</h1>
         <nav class="menu">
             <ul class="list">
-                <li class="links"><a href="parte1form.php">Parte 1</a></li>
+                <li class="links"><a href="index.php">Parte 1</a></li>
                 <li class="links"><a href="parte2form.php">Parte 2</a></li>
             </ul>
         </nav>
